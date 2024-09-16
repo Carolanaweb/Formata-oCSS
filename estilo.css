@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    /* background-color: #6495ED; */
+    background-image: url(https://media.istockphoto.com/id/177512311/pt/foto/fundo-de-espa%C3%A7o-com-estrelas-universo-gal%C3%A1xia-e-nebulosa.jpg?s=612x612&w=0&k=20&c=6aPtjOiUeqX9p2X1XtOVWpL-ryyPC0F4knWFVtHg5YU=);
+    background-size: cover;
+    /* background-position: ; */
+    background-attachment: fixed;
+    color: rgb(134, 156, 180);
+}
+
+main {
+
+    width: 60%;
+    margin: auto;
+    background-color: #f0f8ff4f;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+
+    border: #84a6c2 2px solid;
+    border-radius: 30px;
+}
+
+p {
+    color: hwb(0 0% 100%);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    /* font-weight: 600; */
+    /* font-style: italic; */
+    /* font-stretch: semi-condensed; */
+    line-height: 26px;
+    /* letter-spacing: 1px; */
+    /* word-spacing: 2px; */
+    text-align: justify;
+    /* text-decoration: underline plum dashed; */
+    text-transform: capitalize;
+    text-indent: 70px;
+    /* text-shadow: 2px 3px 1px #ffffff; */
+
+}
+
+h1{
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #7cb5d8;
+font-size: 70px;
+padding-bottom: 40px;
+padding-top: 30px;
+text-shadow: 6px 3px 1px #1d2a41;
+
+}
+
+footer p{
+    color: #87abb8;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+img {
+    padding: 30px;
+  border-radius: 90px;
+
+}
+
